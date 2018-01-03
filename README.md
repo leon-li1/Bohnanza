@@ -1,0 +1,2 @@
+# Bohnanza
+A game
